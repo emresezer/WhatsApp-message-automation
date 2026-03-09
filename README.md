@@ -1,8 +1,10 @@
-# WhatsApp-message-automation
-Sending automated messages from an Excel list using Python
+# WhatsApp Message Automation
 
-add lib
+A streamlined Python utility to send automated WhatsApp messages to a list of contacts provided in an Excel file.
 
-C:\Users\emres\AppData\Local\Programs\Python\Python313\python.exe -m pip install pywhatkit pandas openpyxl
+## Prerequisites
 
+This system requires `pywhatkit` for WhatsApp integration and `pandas` with `openpyxl` for data processing. Install them using:
+
+```bash
 python -m pip install pywhatkit pandas openpyxl
